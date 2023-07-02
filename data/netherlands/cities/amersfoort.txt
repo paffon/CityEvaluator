@@ -1,0 +1,66 @@
+
+ Restaurants	Edit	Range
+Meal, Inexpensive Restaurant	20.00 €	12.00-25.00
+Meal for 2 People, Mid-range Restaurant, Three-course	62.50 €	50.00-80.00
+McMeal at McDonalds (or Equivalent Combo Meal)	10.00 €	6.00-10.00
+Domestic Beer (0.5 liter draught)	5.00 €	5.00-8.00
+Imported Beer (0.33 liter bottle)	4.25 €	4.00-6.00
+Cappuccino (regular)	3.14 €	2.50-4.00
+Coke/Pepsi (0.33 liter bottle)	2.75 €	2.50-3.00
+Water (0.33 liter bottle)	2.27 €	1.80-2.80
+ Markets	Edit	
+Milk (regular), (1 liter)	1.02 €	0.99-1.20
+Loaf of Fresh White Bread (500g)	1.88 €	1.00-1.94
+Rice (white), (1kg)	1.76 €	1.20-2.00
+Eggs (regular) (12)	1.63 €	1.63-3.00
+Local Cheese (1kg)	11.14 €	10.00-15.00
+Chicken Fillets (1kg)	8.49 €	7.98-10.00
+Beef Round (1kg) (or Equivalent Back Leg Red Meat)	27.49 €	15.00-27.49
+Apples (1kg)	2.59 €	2.00-2.99
+Banana (1kg)	1.27 €	1.19-1.39
+Oranges (1kg)	1.36 €	1.10-2.00
+Tomato (1kg)	2.72 €	2.18-4.00
+Potato (1kg)	1.05 €	0.96-1.50
+Onion (1kg)	0.89 €	0.89-1.50
+Lettuce (1 head)	0.76 €	0.75-0.80
+Water (1.5 liter bottle)	0.95 €	0.60-2.00
+Bottle of Wine (Mid-Range)	5.99 €	4.99-8.00
+Domestic Beer (0.5 liter bottle)	1.31 €	1.19-2.00
+Imported Beer (0.33 liter bottle)	1.63 €	1.40-3.50
+Cigarettes 20 Pack (Marlboro)	8.00 €	7.20-8.00
+ Transportation	Edit	
+One-way Ticket (Local Transport)	3.00 €	3.00-7.00
+Monthly Pass (Regular Price)	125.00 €	99.00-300.00
+Taxi Start (Normal Tariff)	7.50 €	
+Taxi 1km (Normal Tariff)	2.50 €	
+Taxi 1hour Waiting (Normal Tariff)	21.60 €	21.60-40.00
+Gasoline (1 liter)	1.98 €	1.76-2.22
+Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)	33,996.50 €	27,993.00-40,000.00
+Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)	31,000.00 €	22,000.00-40,000.00
+ Utilities (Monthly)	Edit	
+Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment	190.87 €	100.00-250.00
+Mobile Phone Monthly Plan with Calls and 10GB+ Data	27.50 €	27.50-27.50
+Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)	42.33 €	35.00-52.00
+ Sports And Leisure	Edit	
+Fitness Club, Monthly Fee for 1 Adult	35.00 €	22.00-50.00
+Tennis Court Rent (1 Hour on Weekend)	18.50 €	15.00-22.00
+Cinema, International Release, 1 Seat	12.00 €	9.99-15.00
+ Childcare	Edit	
+Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child	1,900.00 €	1,700.00-2,200.00
+International Primary School, Yearly for 1 Child	2,000.00 €	
+ Clothing And Shoes	Edit	
+1 Pair of Jeans (Levis 501 Or Similar)	80.00 €	60.00-100.00
+1 Summer Dress in a Chain Store (Zara, H&M, ...)	51.67 €	25.00-65.00
+1 Pair of Nike Running Shoes (Mid-Range)	100.00 €	45.00-150.00
+1 Pair of Men Leather Business Shoes	85.00 €	40.00-120.00
+ Rent Per Month	Edit	
+Apartment (1 bedroom) in City Centre	1,175.00 €	1,100.00-1,300.00
+Apartment (1 bedroom) Outside of Centre	987.50 €	900.00-1,200.00
+Apartment (3 bedrooms) in City Centre	1,700.00 €	1,400.00-1,800.00
+Apartment (3 bedrooms) Outside of Centre	1,366.67 €	1,300.00-1,400.00
+ Buy Apartment Price	Edit	
+Price per Square Meter to Buy Apartment in City Centre	4,200.00 €	
+Price per Square Meter to Buy Apartment Outside of Centre	5,500.00 €	
+ Salaries And Financing	Edit	
+Average Monthly Net Salary (After Tax)	3,200.00 €	
+Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate	3.23	0.97-4.60

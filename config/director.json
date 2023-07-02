@@ -1,0 +1,35 @@
+{
+  "folders": {
+    "modules": "modules",
+    "data": "data",
+    "results": "results",
+    "config": "config"
+  },
+  "options": {
+    "what to calculate": "Estimated funds left after expenses",
+    "costs": "Estimated costs",
+    "remaining": "Estimated funds left after expenses"
+  },
+  "constants": {
+    "columns names": {
+      "expense category": "expense_estimation",
+      "low cost estimation": "1_low_est",
+      "normal cost estimation": "2_normal_est",
+      "high cost estimation": "3_high_est",
+      "luxury": "luxury_level",
+      "country": "country",
+      "country code": "country_code",
+      "city": "city",
+      "location": "location",
+      "net salary": "net_salary",
+      "cost category": "cost_category"
+    },
+    "categorical values": {
+      "low luxury": "1: frugal",
+      "medium luxury": "2: simple life",
+      "high luxury": "3: lavish",
+      "total category": "Total",
+      "range": "range"
+    }
+  }
+}

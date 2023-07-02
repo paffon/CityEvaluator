@@ -1,0 +1,42 @@
+{
+  "Portugal": {
+    "country_code": "PT",
+    "tax brackets": {
+      "amount brackets": [0, 7112, 10732, 20322, 25075, 36967, 80882],
+      "percentage brackets": [0.145, 0.23, 0.285, 0.35, 0.37, 0.45, 0.48]
+    },
+    "cities": ["Lisbon", "Porto"]
+  },
+  "Spain": {
+    "country_code": "ES",
+    "tax brackets": {
+      "amount brackets": [0, 12450, 20200, 35200, 60000, 300000],
+      "percentage brackets": [0.19, 0.24, 0.3, 0.37, 0.45, 0.47]
+    },
+    "cities": ["Barcelona", "Madrid", "Valencia", "Malaga"]
+  },
+  "Netherlands": {
+    "country_code": "NL",
+    "tax brackets": {
+      "amount brackets": [0, 73031],
+      "percentage brackets": [0.3693, 0.495]
+    },
+    "cities": ["Den Haag", "Leiden", "Rotterdam", "Utrecht", "Amsterdam", "Amersfoort"]
+  },
+  "Germany": {
+    "country_code": "DE",
+    "tax brackets": {
+      "amount brackets":     [0, 11604, 21845, 32086, 42328, 52569, 62810, 277825],
+      "percentage brackets": [0, 0.14, 0.21, 0.28, 0.35, 0.42, 0.42, 0.45]
+    },
+    "cities": ["Berlin", "Dortmund", "Hamburg", "Hanover"]
+  },
+  "Latvia": {
+	  "country_code": "LV",
+	  "tax brackets": {
+		  "amount brackets":     [0, 20004, 78100],
+		  "percentage brackets": [0.2, 0.23, 0.31]
+		},
+		"cities": ["Riga"]
+    }
+}
